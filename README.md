@@ -24,6 +24,9 @@ source venv/Scripts/activate
 pip install -r requirements.txt
 ``` 
 
+# Шаблон наполнения env-файла
+TELEGRAM_TOKEN = 'ваш:телеграм-токен'
+
 ## Технологии
 Python 3.11.0, pyTelegramBotAPI
 
