@@ -25,8 +25,11 @@ Python 3.11.0, pyTelegramBotAPI
 - [@Marymarian](https://www.github.com/Marymarian)
 
 ## Демо
-### Рецепты
-![](https://github.com/foodgram-project-react
-/gif/recipes2.gif) 
-![](https://github.com/foodgram-project-react
-/gif/recipes.gif) 
+### Команды: /start, /Достопримечатеьности (нажатие кнопки)
+![](https://github.com/Marymarian/walking_around_St_Petersburg_bot/blob/main/gif/photo_1.gif) 
+### Другие команды
+![](https://github.com/Marymarian/walking_around_St_Petersburg_bot/blob/main/gif/photo_2.gif)
+### Кнопки меню
+![](https://github.com/Marymarian/walking_around_St_Petersburg_bot/blob/main/gif/photo_3.gif)
+### Описание
+![](https://github.com/Marymarian/walking_around_St_Petersburg_bot/blob/main/gif/photo_3.gif)
